@@ -19,4 +19,4 @@ Data Science</br>
 ```markdown
 > Nunca desista! Se cair... Levante-se.
 ```
-![Snake animation](https://github.com/SamuelFAiedo/SamuelFAiedo/blob/output/github-contribution-grid-snake.svg)
+ 👾 💚
