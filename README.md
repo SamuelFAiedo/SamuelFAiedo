@@ -17,5 +17,5 @@ Data Science</br>
 ### NOTA
 
 ```markdown
-> Nunca deista! Se cair... Levante-se.
+> Nunca desista! Se cair... Levante-se.
 ```
