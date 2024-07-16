@@ -6,6 +6,12 @@ def hello_world():
 > Estudante de programação ávido pelo conhecimento e aprendizado.<br>
 Meu objetivo é ser reconhecido pelas minhas habilidades e qualificações e para isso meu progresso estará salvo neste perfil.
 
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelFAiedo&layout=compact&langs_count=7&theme=dark"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelFAiedo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
+
 #### FERRAMENTAS E TECNOLOGIAS
 
 <img loading="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img loading="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img loading="JS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>  <img loading="HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/> <img loading="CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
