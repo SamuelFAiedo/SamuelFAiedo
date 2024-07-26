@@ -8,8 +8,8 @@ Meu objetivo é ser reconhecido pelas minhas habilidades e qualificações e par
 
 <div>
 <a href="https://github.com/SamuelFAiedo">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelFAiedo&layout=compact&langs_count=7&theme=transparent"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelFAiedo&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelFAiedo&layout=compact&langs_count=7&theme=dark"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=SamuelFAiedo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 #### FERRAMENTAS E TECNOLOGIAS
