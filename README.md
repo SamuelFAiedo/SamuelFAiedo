@@ -6,10 +6,16 @@ def hello_world():
 > Estudante de programação ávido pelo conhecimento e aprendizado.<br>
 Meu objetivo é ser reconhecido pelas minhas habilidades e qualificações e para isso meu progresso estará salvo neste perfil.
 
+<br>
+
 <div>
+    
 <a href="https://github.com/SamuelFAiedo">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelFAiedo&layout=compact&langs_count=7&theme=dark"/>
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SamuelFAiedo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SamuelFAiedo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+
+</div>
 
 #### FERRAMENTAS E TECNOLOGIAS
 
